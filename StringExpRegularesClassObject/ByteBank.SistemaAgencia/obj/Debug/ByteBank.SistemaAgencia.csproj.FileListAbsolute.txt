@@ -1,0 +1,11 @@
+D:\Cursos\Alura\FormacaoCSharpe\StringExpRegularesClassObject\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.exe.config
+D:\Cursos\Alura\FormacaoCSharpe\StringExpRegularesClassObject\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.exe
+D:\Cursos\Alura\FormacaoCSharpe\StringExpRegularesClassObject\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.pdb
+D:\Cursos\Alura\FormacaoCSharpe\StringExpRegularesClassObject\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.dll
+D:\Cursos\Alura\FormacaoCSharpe\StringExpRegularesClassObject\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.pdb
+D:\Cursos\Alura\FormacaoCSharpe\StringExpRegularesClassObject\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.xml
+D:\Cursos\Alura\FormacaoCSharpe\StringExpRegularesClassObject\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.AssemblyReference.cache
+D:\Cursos\Alura\FormacaoCSharpe\StringExpRegularesClassObject\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.CoreCompileInputs.cache
+D:\Cursos\Alura\FormacaoCSharpe\StringExpRegularesClassObject\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.CopyComplete
+D:\Cursos\Alura\FormacaoCSharpe\StringExpRegularesClassObject\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.exe
+D:\Cursos\Alura\FormacaoCSharpe\StringExpRegularesClassObject\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.pdb
